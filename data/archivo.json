@@ -1,0 +1,512 @@
+[
+  {
+    "ID":1,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Dormido o no hambriento o no, cansado o no, siempre se puede hacer algo cuando se sabe que no queda m\u00e1s remedio que hacerlo.",
+    "AUTOR ":"George Bernard Shaw Novelista, cr\u00edtico y dramaturgo irland\u00e9s (1856-1950)"
+  },
+  {
+    "ID":2,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Pon tus palabras en acci\u00f3n, y no permitas que tu lengua diga torpezas.",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  },
+  {
+    "ID":3,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n humana es la que da vida al planeta",
+    "AUTOR ":"Jos\u00e9 Vasconcelos Fil\u00f3sofo, pol\u00edtico y escritor mexicano (1882-1959)"
+  },
+  {
+    "ID":4,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Es la acci\u00f3n la que demuestra la vida y es tambi\u00e9n la acci\u00f3n la que demuestra la voluntad.",
+    "AUTOR ":"Eliphas L\u00e9vi (Alphonse Louis Constant) Escritor franc\u00e9s (1816-1875)"
+  },
+  {
+    "ID":5,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El pensamiento es la floraci\u00f3n; el lenguaje, el capullo; la acci\u00f3n, el fruto. ",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  },
+  {
+    "ID":6,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es s\u00f3lo el pensamiento condensado, concreto ya, oscuro, inconsistente.",
+    "AUTOR ":"Henri-Fr\u00e9d\u00e9ric Amiel Escritor suizo de lengua francesa (1821-1881)"
+  },
+  {
+    "ID":7,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No te empe\u00f1es en regular tu acci\u00f3n por tu pensamiento; deja m\u00e1s bien que aqu\u00e9lla te forme, informe, deforme y transforme.",
+    "AUTOR ":"Miguel de Unamuno y Jugo Fil\u00f3sofo y escritor espa\u00f1ol (1864-1936)"
+  },
+  {
+    "ID":8,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Raramente errara quien contribuyera las acciones extremas a vanidad; las medianas, a costumbres, y las peque\u00f1as, a temor.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche Fil\u00f3sofo y poeta alem\u00e1n (1844-1900)"
+  },
+  {
+    "ID":9,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No hay acci\u00f3n inocente; para realizar algo es indispensable da\u00f1ar o destruir.",
+    "AUTOR ":"Anatole France (Anatole Thibault) Escritor franc\u00e9s (1844-1924)"
+  },
+  {
+    "ID":10,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Hay quien porque golpea la pared con un martillo, se cree que clava clavos.",
+    "AUTOR ":"Johann Wolfgang von Goethe Escritor y poeta alem\u00e1n (1749-1832)"
+  },
+  {
+    "ID":11,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Escrito est\u00e1 que el fin del hombre es la acci\u00f3n y no el pensamiento.",
+    "AUTOR ":"Alexis Carrel Cirujano y fisi\u00f3logo estadounidense (1873-1944)"
+  },
+  {
+    "ID":12,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Que cada uno de tus actos, palabras y pensamientos sean los de un hombre que, acaso en ese instante, haya de abandonar la vida.",
+    "AUTOR ":"Marco Aurelio Antonino Emperador y fil\u00f3sofo romano (121-180)"
+  },
+  {
+    "ID":13,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"pon la \u00faltima en uno de tus proyectos.",
+    "AUTOR ":"Jos\u00e9 Mar\u00eda Escriv\u00e1 de Balaguer Sacerdote espa\u00f1ol (1902-1975)"
+  },
+  {
+    "ID":14,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nuestras acciones obran sobre nosotros tanto como nosotros obramos sobre ellas.",
+    "AUTOR ":"George Eliot (Mary Ann Evans) Escritora inglesa (1819-1880)"
+  },
+  {
+    "ID":15,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"A menudo, en nuestros motivos de acci\u00f3n hay uno m\u00e1s poderoso que los dem\u00e1s: es el que no se dice.",
+    "AUTOR ":"Jean-Lucien Arr\u00e9at Escritor y fil\u00f3sofo franc\u00e9s (1841-1922)"
+  },
+  {
+    "ID":16,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Fuertes razones hacen fuertes acciones.",
+    "AUTOR ":"William Shakespeare Dramaturgo y poeta ingl\u00e9s (1564-1616)"
+  },
+  {
+    "ID":17,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nadie es mejor que otro, si no hace m\u00e1s que otro.",
+    "AUTOR ":"Ramiro de Maeztu Ensayista y pol\u00edtico espa\u00f1ol (1875-1936)"
+  },
+  {
+    "ID":18,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n nunca trae siempre felicidad; pero nunca hay felicidad sin acci\u00f3n.",
+    "AUTOR ":"Benjamin Disraeli Pol\u00edtico y novelista ingl\u00e9s (1804-1881)"
+  },
+  {
+    "ID":19,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Si logras mostrarle a una persona lo malo que ella est\u00e1 haciendo, entonces procura hacerlo t\u00fa bien.",
+    "AUTOR ":"Henry David Thoreau Escritor estadounidense (1817-1862)"
+  },
+  {
+    "ID":20,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Los cielos nunca ayudan al hombre que no quiere actuar.",
+    "AUTOR ":"S\u00f3focles de Colona Poeta tr\u00e1gico griego (496-406 a. C.)"
+  },
+  {
+    "ID":21,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Las esperanzas interminables tienen un elemento debilitador que s\u00f3lo la acci\u00f3n vence.",
+    "AUTOR ":"Alexandr Vasilievich Suvarov Militar ruso (1729-1800)"
+  },
+  {
+    "ID":22,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Nunca se cierran tanto los caminos que no quede lugar para una acci\u00f3n honesta.",
+    "AUTOR ":"Lucio Anneo S\u00e9neca Fil\u00f3sofo latino (4 a. C.-65 d. C.)"
+  },
+  {
+    "ID":23,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Entrar en el mundo de la acci\u00f3n es entrar en el mundo de los l\u00edmites.",
+    "AUTOR ":"Gilbert Keith Chesterton Escritor ingl\u00e9s (1874-1936)"
+  },
+  {
+    "ID":24,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La mejor acci\u00f3n es la que procura la mayor felicidad al mayor n\u00famero.",
+    "AUTOR ":"John Hutchison Militar y pol\u00edtico ingl\u00e9s (1615-1664)"
+  },
+  {
+    "ID":25,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El pensamiento precede a la acci\u00f3n como el rel\u00e1mpago precede al trueno. ",
+    "AUTOR ":"Henrich Heine Poeta y dramaturgo alem\u00e1n (1797-1856)"
+  },
+  {
+    "ID":26,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es el fruto propio del conocimiento.",
+    "AUTOR ":"Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s (1608-1661)"
+  },
+  {
+    "ID":27,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Vale m\u00e1s actuar exponi\u00e9ndose a arrepentirse de ello que arrepentirse de no haber hecho nada.",
+    "AUTOR ":"Giovanni Boccaccio Escritor florentino (1313-1375)"
+  },
+  {
+    "ID":28,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El hombre que difiere la acci\u00f3n, siempre estar\u00e1 luchando contra su propia desgracia.",
+    "AUTOR ":"Hes\u00edodo de Ascra Poeta griego (Siglo VIII a. C.)"
+  },
+  {
+    "ID":29,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El gran objetivo de la vida no es el conocimiento, sino la acci\u00f3n.",
+    "AUTOR ":"Thomas Henry Huxley Bi\u00f3logo ingl\u00e9s (1825-1895)"
+  },
+  {
+    "ID":30,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Tanto hay que hacer y tan poco hecho.",
+    "AUTOR ":"Cecil John Rhodes Pol\u00edtico ingl\u00e9s (1853-1902)"
+  },
+  {
+    "ID":31,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"No es un hombre m\u00e1s que otro, si no hace m\u00e1s que otro.",
+    "AUTOR ":" Miguel de Cevantes Saavedra Escritor espa\u00f1ol"
+  },
+  {
+    "ID":32,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Vana es y peligrosa toda obra humana que no comienza en el cielo.",
+    "AUTOR ":"Metastasio (Pietro Trapassi) Poeta italiano "
+  },
+  {
+    "ID":33,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"El hombre que pretende obrar guiado exclusivamente por la raz\u00f3n est\u00e1 condenado a obrar muy raramente.",
+    "AUTOR ":"Gustave Lebon Soci\u00f3logo franc\u00e9s (1841-1931)"
+  },
+  {
+    "ID":34,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"En el molde de nuestras acciones es donde se ha forjado la inteligencia",
+    "AUTOR ":"Henri Bergson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":35,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Piensa como un hombre de acci\u00f3n y act\u00faa como un hombre de pensamiento.",
+    "AUTOR ":"Henri Bergson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":36,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Lo que me queda de vida no quiero vivirlo en vano.",
+    "AUTOR ":"Joseph Addison  Escritor y pol\u00edtico ingl\u00e9s"
+  },
+  {
+    "ID":37,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La especulaci\u00f3n es un lujo mientras que la acci\u00f3n es una necesidad.",
+    "AUTOR ":"Henri Berson Fil\u00f3sofo franc\u00e9s (1859-1941)"
+  },
+  {
+    "ID":38,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Pide consejo antes de comenzar; cuando est\u00e9s decidido, act\u00faa prontamente.",
+    "AUTOR ":" Cayo Crispo Salustio Historiador romano"
+  },
+  {
+    "ID":39,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n es el fruto del propio conocimiento. ",
+    "AUTOR ":" Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s"
+  },
+  {
+    "ID":40,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"Haz todo bien y con rectitud, no importa que el mundo se desmorone.",
+    "AUTOR ":"George Herbert Poeta ingl\u00e9s (1593-1633)"
+  },
+  {
+    "ID":41,
+    "CATEGORIA":"ACCI\u00d3N",
+    "FRASE":"La acci\u00f3n sin cordura es siempre desastrosa. ",
+    "AUTOR ":"Lin Yutang Escritor chino (1895-1976)"
+  },
+  {
+    "ID":42,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"El descubrimiento m\u00e1s grande de mi generaci\u00f3n es que un ser humano puede cambiar de vida cambiando de actitud mental.",
+    "AUTOR ":"William James Fil\u00f3sofo estadounidense (1842-1910)"
+  },
+  {
+    "ID":43,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"Las actitudes son m\u00e1s importantes que las aptitudes.",
+    "AUTOR ":"Wiston Churchill Pol\u00edtico ingl\u00e9s (1874-1965)"
+  },
+  {
+    "ID":44,
+    "CATEGORIA":"ACTITUD",
+    "FRASE":"Si no est\u00e1 en tus manos cambiar una situaci\u00f3n que te produce dolor, siempre podr\u00e1s escoger la actitud son la que afrontes ese sufrimiento.",
+    "AUTOR ":"V\u00edctor Frank Escritor austriaco "
+  },
+  {
+    "ID":45,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"S\u00f3lo la actividad orientada hacia un determinado fin hace soportable la vida.",
+    "AUTOR ":"Johann Christoph Friedrich von Schiller Escritor e historiador alem\u00e1n"
+  },
+  {
+    "ID":46,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Al hombre activo le importa hacer lo que es justo; que luego se haga o no justicia, no es problema suyo.",
+    "AUTOR ":"Johann Wolfgang von Goethe Escritor y poeta alem\u00e1n (1749-1832)"
+  },
+  {
+    "ID":47,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Toda actividad humana transcurre dentro de la sociedad, sin que nadie pueda sustraerse a su influjo.",
+    "AUTOR ":"Georg Simmel Fil\u00f3sofo y escritor alem\u00e1n (1858-1918)"
+  },
+  {
+    "ID":48,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Deja tu afici\u00f3n a las primeras piedras, y pon la \u00faltima en uno solo de tus proyectos.",
+    "AUTOR ":"Jos\u00e9 Mar\u00eda Escriv\u00e1 de Balaguer Sacerdote espa\u00f1ol "
+  },
+  {
+    "ID":49,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"Nunca mires para atr\u00e1s, siempre para adelante, pues cuando la suerte te acompa\u00f1e, nada existir\u00e1 que te sea imposible.",
+    "AUTOR ":"Charles Lamb Escritor y poeta ingl\u00e9s (1775-1834)"
+  },
+  {
+    "ID":50,
+    "CATEGORIA":"ACTIVIDAD",
+    "FRASE":"No digas nunca \u00a1Si supiera!; porque si supieras, \u00bfqu\u00e9 har\u00edas? Act\u00faa de una vez como lo har\u00edas en tal caso y as\u00ed te sentir\u00e1s siempre seguro.",
+    "AUTOR ":"Tom\u00e1s de Kempis  (Thomas Hemerken de Kempen)"
+  },
+  {
+    "ID":51,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admiraci\u00f3n y familiaridad son enemigos.  ",
+    "AUTOR ":"George Sand (Amandine Aurore Lucie Dupin) Novelista francesa (1804-1876)"
+  },
+  {
+    "ID":52,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admiraci\u00f3n: forma amable de reconocer que el otro se nos parece.",
+    "AUTOR ":"Ambrose Bierce Escritor y periodista estadounidense (1842-1914)"
+  },
+  {
+    "ID":53,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"olvidan sin poder remplazarlas con las ajenas.",
+    "AUTOR ":"Friedrich Wilhelm Nietzsche Fil\u00f3sofo y poeta alem\u00e1n (1844-1900)"
+  },
+  {
+    "ID":54,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Me parec\u00eda que la Tierra no hubiera sido habitable, si no hubiese tenido a nadie a quien admirar.",
+    "AUTOR ":"Simone de Beauvoir Novelista y ensayista francesa (1908-1986)"
+  },
+  {
+    "ID":55,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La admiraci\u00f3n es amor congelado.",
+    "AUTOR ":"Fran\u00e7oise Sagan (Fran\u00e7oise Quoirez) Escritora francesa -1935"
+  },
+  {
+    "ID":56,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Admirar, en principio, es el solo camino de imitar sin perder originalidad.",
+    "AUTOR ":"Samuel Taylor Coleridge Poeta y fil\u00f3sofo ingl\u00e9s (1772-1834)"
+  },
+  {
+    "ID":57,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Amamos siempre a los que nos admiran, pero no siempre a los que admiramos.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":58,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Nada hay tan grande o admirable que, poco a poco, no dejen todos de ir admirando.",
+    "AUTOR ":"Marco Anneo Lucano Poeta e historiador latino (39-65)"
+  },
+  {
+    "ID":59,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La distancia es un gran inspirador de admiraciones.",
+    "AUTOR ":"Denis Diderot Fil\u00f3sofo y escritor franc\u00e9s (1713-1784)"
+  },
+  {
+    "ID":60,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La ambici\u00f3n es la llave que abre las puertas a la inquietud, y la ac\u00e9mila que nos trae las contrariedades.",
+    "AUTOR ":"Abu Beker el-Zobeid\u00ed Poeta y fil\u00f3sofo hispano\u00e1rabe "
+  },
+  {
+    "ID":61,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Haz de manera que seas t\u00fa el admirado y no lo que te pertenece.",
+    "AUTOR ":"D\u00e9cimo Junio Juvenal Poeta sat\u00edrico romano (55-135)"
+  },
+  {
+    "ID":62,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Quien de buena fe admira el m\u00e9rito ajeno, no puede dejar de tener alguno.",
+    "AUTOR ":"Stephen Crane Escritor estadounidense (1871-1900)"
+  },
+  {
+    "ID":63,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Asusta pensar que acaso las admiraciones m\u00e1s sinceras que tenemos son las de las personas que no nos han comprendido.",
+    "AUTOR ":"Benito P\u00e9rez Gald\u00f3s Escritor espa\u00f1ol (1843-1920)"
+  },
+  {
+    "ID":64,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Cuando hacemos una reverencia profunda a alguien, damos siempre la espalda a otro.",
+    "AUTOR ":"Ferdinando Galiani Escritor italiano (1728-1787)"
+  },
+  {
+    "ID":65,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"La admiraci\u00f3n es hija de la ignorancia y madre de la ciencia.",
+    "AUTOR ":"Metastasio (Pietro Trapassi) Poeta italiano "
+  },
+  {
+    "ID":66,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Un hombre no puede ser admirado sin ser cre\u00eddo.",
+    "AUTOR ":"Jean Cocteau Escritor franc\u00e9s (1891-1963)"
+  },
+  {
+    "ID":67,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Es m\u00e1s dif\u00edcil hacer durar la admiraci\u00f3n que provocarla.",
+    "AUTOR ":" Joseph Sanial-Dubay Escritor franc\u00e9s"
+  },
+  {
+    "ID":68,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"Los que saben mucho se admiran de pocas cosas y los que no saben nada se admiran de todo.",
+    "AUTOR ":" Lucio Anneo S\u00e9neca Fil\u00f3sofo latino"
+  },
+  {
+    "ID":69,
+    "CATEGORIA":"ADMIRACI\u00d3N",
+    "FRASE":"El hombre que no admira nada, que no sabe admirar, es como unos lentes sin ojos detr\u00e1s.",
+    "AUTOR ":"Thomas Carlyle Escritor escoc\u00e9s "
+  },
+  {
+    "ID":70,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"de los bufones de todos los tiranos.",
+    "AUTOR ":"Henri-Fr\u00e9d\u00e9ric Amiel Escritor suizo de lengua francesa (1821-1881)"
+  },
+  {
+    "ID":71,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"La adulaci\u00f3n es el veneno m\u00e1s activo y el que los hombres toman con m\u00e1s facilidad, por prevenidos que se encuentren.",
+    "AUTOR ":" Vicente Riva Palacio Escritor, militar y periodista mexicano"
+  },
+  {
+    "ID":72,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Est\u00e1 perdido el que considera la adulaci\u00f3n como un homenaje al que tiene derecho.",
+    "AUTOR ":"Conde Feodor Vasilievich Rostopchin General y pol\u00edtico ruso"
+  },
+  {
+    "ID":73,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Hombre en el cual hace mella la adulaci\u00f3n, es hombre desarmado. ",
+    "AUTOR ":"Arturo Graf Escritor italiano nacido en Grecia (1848-1913)"
+  },
+  {
+    "ID":74,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Si no nos adul\u00e1ramos jam\u00e1s mutuamente, la vida ser\u00eda menos placentera.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":75,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"A veces creemos odiar la adulaci\u00f3n y lo que odiamos es la manera de adular.",
+    "AUTOR ":"Fran\u00e7ois de la Rochefoucauld Escritor franc\u00e9s (1613-1680)"
+  },
+  {
+    "ID":76,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"La adulaci\u00f3n no hace da\u00f1o\u2026 siempre que no la anheles.",
+    "AUTOR ":"Adlai Ewing Stevenson  Abogado y pol\u00edtico estadounidense"
+  },
+  {
+    "ID":77,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"El hombre es un animal que se alimenta de adulaciones.",
+    "AUTOR ":"William Hazlitt Ensayista y cr\u00edtico ingl\u00e9s (1778-1830)"
+  },
+  {
+    "ID":78,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Engullimos de un sorbo la mentira que nos adula, y debemos gota a gota la verdad que nos amaga.",
+    "AUTOR ":"Denis Diderot Fil\u00f3sofo y escritor franc\u00e9s (1713-1784)"
+  },
+  {
+    "ID":79,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Para quien ama la lisonja, es enemigo el que no es adulador.",
+    "AUTOR ":"Benito Jer\u00f3nimo Feij\u00f3o y Montenegro Escritor espa\u00f1ol"
+  },
+  {
+    "ID":80,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Los aduladores tienen apariencia de amigos, como los lobos tienen la apariencia de perros.",
+    "AUTOR ":"George Chapman Poeta y dramaturgo ingl\u00e9s (1559-1634)"
+  },
+  {
+    "ID":81,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Quien premia la adulaci\u00f3n, la solicita.",
+    "AUTOR ":"Thomas Fuller Cl\u00e9rigo y escritor ingl\u00e9s (1608-1661)"
+  },
+  {
+    "ID":82,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"El m\u00e1s da\u00f1ino de todos los animales salvajes es el murmurador; de los animales dom\u00e9sticos, el adulador.",
+    "AUTOR ":"Di\u00f3genes Laercio Escritor griego (Siglo III d. C.)"
+  },
+  {
+    "ID":83,
+    "CATEGORIA":"ADULACI\u00d3N",
+    "FRASE":"Prefiero que pregunten por qu\u00e9 no hay una estatua m\u00eda que por qu\u00e9 la hay.",
+    "AUTOR ":"Marco Porcio Cat\u00f3n (El Censor) Orador romano"
+  },
+  {
+    "ID":84,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"que la prosperidad no llega a percibir.",
+    "AUTOR ":"Henri-Dominique Lacordaire Predicador y escritor franc\u00e9s (1802-1861)"
+  },
+  {
+    "ID":85,
+    "CATEGORIA":"ADVERSIDAD",
+    "FRASE":"Los malos tiempos tienen un gran valor de ense\u00f1anza que ning\u00fan estudiante debe desaprovechar.",
+    "AUTOR ":"Ralph Waldo Emerson Fil\u00f3sofo y ensayista estadounidense (1803-1882)"
+  }
+]
